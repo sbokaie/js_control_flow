@@ -8,6 +8,7 @@ Write a program that will take a hardcoded string, and console log the reverse i
 
 `var inputString = "building"`
 
+
 ##filterLongWords.js
 Hardcode an array of words. Have a variable maxLength, and push those words to only to an array filter long words
 
